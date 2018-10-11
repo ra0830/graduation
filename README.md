@@ -42,5 +42,5 @@ https://docs.google.com/spreadsheets/d/1Ml8oMnXgqtL5Hh7rp-7hdwIEt3g0aLITYkSfBAaG
 <br>・devise
 <br>・kaminari
 <br>・rails_admin
-
-
+<br>・carrierwave
+<br>・mini_magick
