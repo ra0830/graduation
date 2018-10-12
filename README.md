@@ -15,7 +15,7 @@
 <br>ログイン機能
 <br>ユーザー登録機能
 <br>ユーザー管理機能(不適切な投稿、コメントをしたユーザーを削除するため)
-<br>投稿一覧表示機能(ジャンル、最寄駅、営業時間による検索機能(ジェムを使わずシンプルに)、値段と評価による並び替え機能、ページネーションを実装)
+<br>投稿一覧表示機能(ジャンル、最寄駅、営業時間による検索機能(全てジェムを使わずシンプルに)、値段と評価による並び替え機能、ページネーションを実装)
 <br>投稿機能（写真も）
 <br>編集機能
 <br>削除機能
@@ -37,7 +37,9 @@ https://docs.google.com/spreadsheets/d/11fvp9dEpWX6yE4WEO1e4f4OcUnu2UjwKGJGHkQUM
 https://docs.google.com/spreadsheets/d/1tlAhH53HTv61kPYDDomal7nub-F4VJHIh2PNIXENFsE/edit?usp=sharing
 
 * **画面ワイヤーフレーム**
-https://docs.google.com/spreadsheets/d/1Ml8oMnXgqtL5Hh7rp-7hdwIEt3g0aLITYkSfBAaGMYo/edit?usp=sharing
+https://cacoo.com/diagrams/w3QfW4wNdqPBAwDM/8D28A
+
+<br>管理画面はrails_adminをそのまま使用予定
 
 * **使用予定Gem**
 <br>・devise
